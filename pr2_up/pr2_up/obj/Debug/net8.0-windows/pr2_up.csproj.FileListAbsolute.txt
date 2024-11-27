@@ -1,0 +1,16 @@
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\bin\Debug\net8.0-windows\pr2_up.exe
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\bin\Debug\net8.0-windows\pr2_up.deps.json
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\bin\Debug\net8.0-windows\pr2_up.runtimeconfig.json
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\bin\Debug\net8.0-windows\pr2_up.dll
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\bin\Debug\net8.0-windows\pr2_up.pdb
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.Form1.resources
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.csproj.GenerateResource.cache
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.AssemblyInfo.cs
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.dll
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\refint\pr2_up.dll
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.pdb
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\pr2_up.genruntimeconfig.cache
+C:\Users\karin\Documents\котик c#\pr2_up\pr2_up\obj\Debug\net8.0-windows\ref\pr2_up.dll
